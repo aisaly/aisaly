@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **aisaly/aisaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+hello 🙋‍♀️ my name is **alex**
+- 💛 she/her
+- 👓 some things i know: Python, C++, Selenium, IaaS, microservices + more
+- 🌻 topics i'm exploring: UI/UX design, computer vision, testing...
+- 💬 feel free to email me: alexandraisaly@gmail.com
